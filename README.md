@@ -75,8 +75,8 @@ Four raw files, joined into one clean table:
 - A large share of "messy" rows in the raw data were placeholder/junk values, not real orders — cleaning them out changed the final numbers meaningfully
 
 ```
-[images/revenue_by_category.jpg](https://github.com/tabish022/pizza-sales-python-eda/blob/77698aff119f6d35b78d0437cf75e9c0f2341f96/images/Revenue%20by%20month.jpg)
-[images/Orders per category.jpg](https://github.com/tabish022/pizza-sales-python-eda/blob/77698aff119f6d35b78d0437cf75e9c0f2341f96/images/Revenue%20by%20month.jpg)
+![Revenue by Category](images/revenue_by_category.jpg)
+![Orders per Category](images/orders_per_category.jpg)
 ```
 
 ---
@@ -99,8 +99,7 @@ pizza-sales-eda/
 │   ├── order_details.csv
 │   ├── pizzas.xlsx
 │   └── pizza_types.xlsx
-├── notebooks/
-│   └── pizza_sales_eda.ipynb
+├──  pizza_sales_eda.ipynb
 ├── images/
 │   └── (chart screenshots)
 └── README.md
@@ -128,19 +127,17 @@ pizza-sales-eda/
 
 ## 🎯 What This Project Practiced
 
-- Spotting and diagnosing real-world data quality issues (not just textbook-clean data)
+- Spotting and diagnosing real-world data quality issues
 - Making — and documenting — clear decisions about how to handle missing/bad data
 - Joining multiple related tables into one analysis-ready dataset
 - Going from raw numbers to a plain-language business takeaway
 
 ---
 
-## 📬 Connect
+## 🙋 About Me
+Built by **Tabish Afzal** as a hands-on project to practice the real workflow of a Data Analyst: taking genuinely messy raw sales data, auditing it for quality issues, cleaning it with Pandas, and exploring it end to end to turn 68K+ raw orders into clear business insights.
 
-If you have feedback or suggestions on this project, feel free to open an issue or reach out!
+· 🔗 [LinkedIn](https://www.linkedin.com/in/tabish-afzal/) · 💼 [Portfolio](https://github.com/tabish022)
 
-<div align="center">
-
-*Made as part of a data analytics learning journey* 🚀
-
-</div>
+---
+⭐ If you found this useful, consider starring the repo!
