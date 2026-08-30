@@ -74,10 +74,11 @@ Four raw files, joined into one clean table:
 - Certain days of the week and hours of the day consistently bring in more revenue — useful for staffing decisions
 - A large share of "messy" rows in the raw data were placeholder/junk values, not real orders — cleaning them out changed the final numbers meaningfully
 
-```
+
 ![Revenue by Category](images/revenue_by_category.jpg)
-![Orders per Category](images/orders_per_category.jpg)
-```
+
+![Top 10 Pizzas](images/op_10_ordered_pizzas.jpg)
+
 
 ---
 
