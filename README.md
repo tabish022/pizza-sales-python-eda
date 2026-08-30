@@ -77,8 +77,6 @@ Four raw files, joined into one clean table:
 
 ![Revenue by Category](images/revenue_by_category.jpg)
 
-![Top 10 Pizzas](images/op_10_ordered_pizzas.jpg)
-
 
 ---
 
